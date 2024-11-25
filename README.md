@@ -15,7 +15,7 @@ Updated: 25.11.24
 -->
 
 <h1>
-  <a href="https://ori09.s-ul.eu/tGb8qez9&">
+  <a href="https://ori09.s-ul.eu/tGb8qez9">
     <p align="center">
       dinglekitto
     </p>
