@@ -24,6 +24,15 @@ Updated: 25.11.24
 </h1>
 
 <h1>
+  <a href="https://github.com/ryancranie/skinhub/raw/tyfh/player/lifeline/Aristia(Edit).osk">
+    <p align="center">
+      Aristia (Edit)
+    </p>
+    <img src="https://camo.githubusercontent.com/e9fd45a7a51e9926c47924b2b7256b3d452419f22134f6b5c98b770d6bb9f506/68747470733a2f2f6f73752e7070792e73682f73732f31383333363135372f66646332"/>
+  </a>
+</h1>
+
+<h1>
   <a href="https://chmo.s-ul.eu/xQ2OsSHO">
     <p align="center">
       aesthetics_of_cyrillic_POG_DT v9.0
